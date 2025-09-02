@@ -1,0 +1,29 @@
+{
+  "1288909561784172560": {
+    "nome": "nato_anjo",
+    "vida": 0,
+    "mana": 76,
+    "sanidade": 9,
+    "energia": 50
+  },
+  "limites": {
+    "vida": 100,
+    "mana": 100,
+    "sanidade": 10,
+    "energia": 100
+  },
+  "764674126681997332": {
+    "nome": "sasuka7249",
+    "vida": 100,
+    "mana": 60,
+    "sanidade": 10,
+    "energia": 100
+  },
+  "713331314006294628": {
+    "nome": "trxshbb",
+    "vida": 100,
+    "mana": 100,
+    "sanidade": 9,
+    "energia": 100
+  }
+}

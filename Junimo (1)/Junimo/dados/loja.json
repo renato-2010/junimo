@@ -1,0 +1,10 @@
+{
+  "espada": {
+    "preco": 12,
+    "quantidade": 5
+  },
+  "graveto": {
+    "preco": 1,
+    "quantidade": 120
+  }
+}

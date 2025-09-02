@@ -1,0 +1,19 @@
+{
+  "assunto1": {
+    "titulo": "kayo",
+    "descricao": 
+    "Nome: Georgeus Henrique IV\nIdade: 350\nRaça: Elfo\nAfinidade: combate\nClasse:paladino\n\n#Atributos\nConstituição: 2\nDestreza: 3\nForça: 4\nInteligência: 3\nCarisma: 4\n\n#Biografia:\nFigura de autoridade no seu reino natal, conquista todos por onde passa com seu carisma.\nClasse:"
+  },
+  "assunto2": {
+    "titulo": "trxsh",
+    "descricao": "Nome: Ignis Boreas\nIdade: 22\nRaça: Draconato\nAfinidade: mágica\nClasse:mago\n\n#Atributos\nConstituição: 2\nDestreza: 4\nForça: 3\nCarisma: 1\nInteligência: 6\n\n#Biografia:\nRejeitado por dragões e humanos, vive pelas sombras, na margem do mundo, sobrevivendo a cada dia, como se fosse o último.\nClasse:"
+
+  },
+  "assunto3": {
+    "titulo": "leticia",
+    "descricao": "Nome: Legolas Ancun\nIdade: 666\nRaça: Elfo\nAfinidade: Mágica\nClasse:druida\n\n#Atributos\nConstituição: 3\nDestreza: 4\nForça: 2\nInteligência: 4\nCarisma: 3\n\n#Biografia:\nVive sozinho em uma cabana na floresta, já viveu e explorou tudo que era de seu desejo em seus muitos anos de vida, embora ainda tenha muito para viver só quer aproveitar a paz e tranquilidade." },
+  "assunto4": {
+  "titulo": "Nabila",
+  "descricao":"Nome: Veríssimo Emanuel\nIdade: 23\nRaça: Humano\nAfinidade: Combate\nClasse:ladino\n\n#Atributos\nConstituição: 2\nDestreza: 3\nForça: 3\nInteligência: 3\nCarisma: 5\n\n#Biografia:\nUm charlatão carismático, cuidado para ele não levar sua carteira sem querer 😉"
+}
+}

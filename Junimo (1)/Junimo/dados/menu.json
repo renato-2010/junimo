@@ -1,0 +1,13 @@
+{
+  "assunto1": {
+    "titulo": "📜 pericias",
+    "descricao": "- Sobrevivência---Sabedoria.\n- Percepção---Sabedoria.\n- Obter Informação----Carisma.\n- Intuição---Sabedoria.\n- Intimidação---Carisma.\n- Iniciativa---Destreza.\n- Acrobacia---Destreza.\n- Adestrar-Animais    Carisma.\n- Atuação---Carisma.\n- Conhecimento    Inteligência.\n- Cura---Sabedoria.\n- Diplomacia---Carisma.\n- Enganação---Carisma.\n- Furtividade---Destreza.\n- Identificar Magia---Inteligência"
+  },
+  "assunto2": {
+    "titulo": "⚔️ Classes",
+    "descricao": "1- Guerreiros\nCavaleiro\nBárbaro\nGladiador\nPaladino\nSamurai\nMercenário\nBerserker\nGuardião\n\n2- Magos\nFeiticeiro\nMago\nBruxo\nArcanista\nNecromante\nIlusionista\nElementalista\nInvocador\n\n3- Arqueiros\nArqueiro\nCaçador\nRanger\nAtirador de Elite\nPistoleiro\nSniper Mágico\n\n4- Ladinos\nLadrão\nAssassino\nEspião\nBardo\nAcrobata\nSombra\n\n5- Curandeiros\nClérigo\nSacerdote\nDruida\nXamã\nCurandeiro\nMédium\n\n6- Híbridos\nGuerreiro Mágico\nCaçador Arcano\nPaladino Sombrio\nCavaleiro Místico"},
+  "assunto3": {
+    "titulo": "xxxx",
+    "descricao": "xxxxxxxxx."
+  }
+}

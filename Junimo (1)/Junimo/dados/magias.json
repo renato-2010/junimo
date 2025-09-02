@@ -1,0 +1,22 @@
+{
+  "BolaDeFogo": {
+    "descricao": "Uma bola flamejante que queima tudo",
+    "custoMana": 10
+  },
+  "Deteccao": {
+    "descricao": "Permite encontrar o que desejar",
+    "custoMana": 5
+  },
+  "Draconiana": {
+    "descricao": "A energia dos dragões",
+    "custoMana": 12
+  },
+  "Luz": {
+    "descricao": "Uma luz que ilumina o caminho",
+    "custoMana": 3
+  },
+  "Teleporte": {
+    "descricao": "Permite se mover mais rápido",
+    "custoMana": 15
+  }
+}
